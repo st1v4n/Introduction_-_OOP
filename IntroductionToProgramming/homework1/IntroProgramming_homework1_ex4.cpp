@@ -6,7 +6,7 @@
 * Winter semester 2023/2024
 *
 * @author Stivan Nikolaev Aleksandrov
-* @idnumber 3MI0600301
+* @idnumber 
 * @task 4
 *
 */

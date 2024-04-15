@@ -1,0 +1,3 @@
+Playlist class that contains songs, each of the having name, duration ...
+  We work with binary files in order to save the song content
+  we have functions that modify the song content, as well as some sorting functions (and many more)

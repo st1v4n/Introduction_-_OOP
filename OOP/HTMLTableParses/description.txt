@@ -1,0 +1,3 @@
+We have a html code on a file (a table)
+  we parse it on the console, we print the table and we modify it
+    after that we save the changes into the file (in HTML format)

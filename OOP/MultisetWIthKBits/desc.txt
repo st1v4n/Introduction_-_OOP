@@ -1,0 +1,2 @@
+a better multiset program that actually allows the user to enter K - a number from
+1 to 8, which represents the amount of bits used to form the count of each number in the multiset

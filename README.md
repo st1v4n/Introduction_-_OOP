@@ -1,4 +1,4 @@
-# interestingTasks
-some of the interesting problems I solved during programming courses
+# Tasks
 
 Mainly homeworks and projects
+some Practicum tasks maybe

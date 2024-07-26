@@ -1,1 +1,3 @@
 from the last homework
+We have some objects that can act as functions (due to the definition of operator() )
+we read specific files and determine what kind of function (or object) we need to create

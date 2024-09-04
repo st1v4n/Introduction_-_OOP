@@ -1,0 +1,1 @@
+myString class with move/some operators

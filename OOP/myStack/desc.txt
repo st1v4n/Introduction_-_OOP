@@ -1,0 +1,1 @@
+Fixed capacity Stack (the capacity is given in the template)
